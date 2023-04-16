@@ -10,7 +10,7 @@ This is a MVC architecture based application where controller returns a page wit
 Checkout the repo and move to the directory
 
 ```
-git clone https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero/java-maven-sonar-argocd-helm-k8s/sprint-boot-app
+git clone https://github.com/prannoy10/Project-6-Jenkins_End_To_End_Project
 cd java-maven-sonar-argocd-helm-k8s/sprint-boot-app
 ```
 
@@ -62,6 +62,6 @@ cd sonarqube-9.4.0.54424/bin/linux-x86-64/
 ./sonar.sh start
 ```
 
-Hurray !! Now you can access the `SonarQube Server` on `http://<ip-address>:9000` 
+Now We can access the `SonarQube Server` on `http://<ip-address>:9000` 
 
 
